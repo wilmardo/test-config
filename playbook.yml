@@ -3,3 +3,5 @@
 
   tasks: 
     - ping:
+    - debug: 
+        var: group_all_var
